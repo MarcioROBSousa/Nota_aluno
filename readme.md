@@ -16,7 +16,7 @@ Você digita uma nota (de 0 a 10), clica em "Verificar" e recebe uma mensagem di
 
 
 <p align="center">
-  <img src="img/site.png" alt="site" width="500"/>
+  <img src="site.png" alt="site" width="500"/>
 </p>
 
 ---
