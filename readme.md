@@ -6,7 +6,7 @@
 # 📝 Verificador de Aprovação 📊
 
 Olá! 👋  
-Este é um projetinho simples (mas honesto!) feito em **HTML**, **CSS** e **JavaScript**, para treinar e mostrar meus primeiros passos no mundo do desenvolvimento web. 😄
+Este é um projetinho simples feito em **HTML**, **CSS** e **JavaScript**, para treinar e mostrar meus primeiros passos no mundo do desenvolvimento web. 😄
 
 ## 💡 O que faz?
 
@@ -33,9 +33,8 @@ Você digita uma nota (de 0 a 10), clica em "Verificar" e recebe uma mensagem di
 
 Este repositório foi criado como parte da minha jornada de aprendizado. Estou praticando:
 - Separar HTML, CSS e JS
-- Usar eventos com `onclick`
-- Validar campos e dar feedback visual
-- E claro... começar a usar o GitHub como gente grande 😎
+- Usa eventos com `onclick`
+- Valida campos e da feedback visual
 
 ---
 
